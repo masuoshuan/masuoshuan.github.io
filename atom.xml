@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>业余文艺架构师之路</title>
+  <title>小小猿的架构师之路</title>
   <subtitle>愿我的只言片语，为你的成长带来帮助！</subtitle>
   <link href="/atom.xml" rel="self"/>
   
@@ -9,7 +9,7 @@
   <id>https://geeksblog.cc/</id>
   
   <author>
-    <name>业余文艺架构师</name>
+    <name>心猿意马</name>
     
   </author>
   
@@ -317,13 +317,13 @@
 <h3 id="启动本软件"><a href="#启动本软件" class="headerlink" title="启动本软件"></a>启动本软件</h3><ul>
 <li>方法一: 自助构建</li>
 </ul>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">git <span class="built_in">clone</span> https://github.com/maochunguang/mybatis-generator-gui</div><div class="line"><span class="built_in">cd</span> mybatis-generator-gui</div><div class="line">mvn jfx:jar</div><div class="line"><span class="built_in">cd</span> target/jfx/app/</div><div class="line">java -jar mybatis-generator-gui.jar</div></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">git <span class="built_in">clone</span> https://github.com/masuoshuan/mybatis-generator-gui</div><div class="line"><span class="built_in">cd</span> mybatis-generator-gui</div><div class="line">mvn jfx:jar</div><div class="line"><span class="built_in">cd</span> target/jfx/app/</div><div class="line">java -jar mybatis-generator-gui.jar</div></pre></td></tr></table></figure>
 <ul>
 <li>方法二: IDE中运行Eclipse or IntelliJ IDEA中启动, 找到<code>com.zzg.mybatis.generator.MainUI</code>类并运行就可以了</li>
 </ul>
 <h3 id="文档"><a href="#文档" class="headerlink" title="文档"></a>文档</h3><p>更多详细文档请参考本库的Wiki</p>
 <ul>
-<li><a href="https://github.com/maochunguang/mybatis-generator-gui/wiki">Usage</a></li>
+<li><a href="https://github.com/masuoshuan/mybatis-generator-gui/wiki">Usage</a></li>
 </ul>
 <h2 id="截图参考"><a href="#截图参考" class="headerlink" title="截图参考"></a>截图参考</h2><p><img src="http://o7kalf5h3.bkt.clouddn.com/mybatis.png" alt="MainUI"></p>
 <blockquote>
